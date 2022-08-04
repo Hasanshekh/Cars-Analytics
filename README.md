@@ -13,3 +13,5 @@ Q2 Arrange the ascending and descending order of the above list?
 Q3 How much capital is involved in question 1st
 
 Q4 which are the top ten costly model are in data
+
+Q5 which seller sells most of vehicles
