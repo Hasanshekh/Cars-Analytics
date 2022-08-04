@@ -15,3 +15,5 @@ Q3 How much capital is involved in question 1st
 Q4 which are the top ten costly model are in data
 
 Q5 which seller sells most of vehicles
+
+Q6 Q5 which seller sells most of vehicles from dom_180
