@@ -2,7 +2,7 @@
 Second-hand car sales analytics.
 
 Performed: 
-Data Preprocessing
+Data Preprocessing and
 EDA
 
 Analytics:
