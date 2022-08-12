@@ -1,8 +1,8 @@
 # Cars-Analytics
 Second-hand car sales analytics.
 Performed: 
-Data Preprocessing
-EDA
+-Data Preprocessing
+-EDA
 
 Analytics:
 
