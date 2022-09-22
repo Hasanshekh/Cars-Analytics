@@ -2,4 +2,4 @@
 
 ### Part A : Data Preprocessing and EDA
 
-### Part B : Model implementation
+### Part B : Data Preprocessing, Feature Engineering, Model implementation
